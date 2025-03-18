@@ -1,0 +1,53 @@
+{
+  "version": "3.89.32618.0",
+  "course_id": "6HrCYk0Kwh7",
+  "title": "Storage Classes",
+  "thumbnail": "story_content/thumbnail.jpg",
+  "scenes": [
+    {
+      "title": "Introduction"
+    },
+    {
+      "title": "Map"
+    },
+    {
+      "title": "Graduation"
+    }
+  ],
+  "slides": [
+    {
+      "id": "5nZFJ200BMI",
+      "title": "Beginning Sequence",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "6TcctJzbiIC",
+      "title": "Main",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "5ZW3gf4OT2N",
+      "title": "Main",
+      "scene_index": "2.1"
+    },
+    {
+      "id": "6IXzRKqxOnc",
+      "title": "Main",
+      "scene_index": "2.2"
+    },
+    {
+      "id": "6S6ebsQu2mV",
+      "title": "Untitled Slide",
+      "scene_index": "3.1"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}
